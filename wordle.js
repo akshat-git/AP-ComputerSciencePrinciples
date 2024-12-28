@@ -1,3 +1,6 @@
+//https://studio.code.org/projects/applab/OJKcgDjhFHMepfRVfXSjqXU3l1zffvCMYRVCibaQFhA
+//Above link to actual wordle game, this is the backend code for the app in code.org
+
 var word = "";
 var guesslist = [];
 //import list of possible secret words
